@@ -1,0 +1,5 @@
+[{
+  "file": "D:\\QuangHuy\\CodeC\\Workspaces\\Workspaces1\\Project1\\main.c",
+  "directory": "D:\\QuangHuy\\CodeC\\Workspaces\\Workspaces1\\Project1",
+  "command": "C:/cygwin64/bin/gcc.exe -c D:\\QuangHuy\\CodeC\\Workspaces\\Workspaces1\\Project1\\main.c -o D:\\QuangHuy\\CodeC\\Workspaces\\Workspaces1\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
